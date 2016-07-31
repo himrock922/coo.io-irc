@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Cool.io::Irc do
+describe Coolio::Irc do
   it 'has a version number' do
     expect(Coolio::Irc::VERSION).not_to be nil
   end
